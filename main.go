@@ -5,5 +5,5 @@ func main() {
 }
 
 func sayHello() {
-	println("Hello, World!")
+	println("Hello, World from Go!")
 }
